@@ -32,5 +32,3 @@ def merge(nums1, nums2):
         j += 1
 
     return merged
-
-print(merge_sort([3,4, 7, 2,1]))
